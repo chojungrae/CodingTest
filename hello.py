@@ -1,4 +1,5 @@
 # Github
+# 코딩테스트 열심히 공부하자
 # a,b = input().split()
 A, B = "7 3".split()
 
